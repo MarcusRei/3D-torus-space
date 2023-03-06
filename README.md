@@ -1,3 +1,4 @@
 # 3D-torus-space
 
-## A 3D space scene with a spinning torus.
+### Made from a tutorial made by the youtube channel Fireship.
+[The tutorial in question](https://www.youtube.com/watch?v=Q7AOvWpIVHU&ab_channel=Fireship)
